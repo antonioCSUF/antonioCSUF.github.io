@@ -9,7 +9,7 @@ My name is Antonio Corona amd I am a student at  Cal State Fullerton (https://ww
  MY GitHub page is https://github.com/antonioCSUF
 
 
- ### CPSC 120L
+### CPSC 120L
 
 * lab 6
 
