@@ -2,11 +2,11 @@
 
 # Hello World
 
-My name is Antonio Corona and I am a student at Cal State Fullerton [https://www.fullerton.edu/] and I'm majoring in Computer Science
+My name is Antonio Corona and I am a student at Cal State Fullerton [https://www.fullerton.edu/](https://www.fullerton.edu/) and I'm majoring in Computer Science
 
 ## Computer Science Github
 
-My GitHub page is [https://github.com/antonioCSUF]
+My GitHub page is [https://github.com/antonioCSUF](https://github.com/antonioCSUF)
 
 
 ### CPSC 120
